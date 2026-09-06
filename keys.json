@@ -1,0 +1,11 @@
+{
+    "MOPI-BI21-NMRY-CI66": {
+        "duration_type": "1H",
+        "duration_seconds": 3600,
+        "created_at": "2026-09-06 21:06:58",
+        "activated": false,
+        "activated_at": null,
+        "expires_at": null,
+        "hwid": null
+    }
+}
